@@ -7,7 +7,7 @@
 * Copyright: Dion Dresschers
 * Writer(s): Dion Dresschers
 * Inspiration: [Miguel Grinberg - The New and Improved Flask Mega-Tutorial](https://courses.miguelgrinberg.com/courses/enrolled/336779)
-* Original file(s): 
+* Original file(s): [all/_flask.md at main · diondresschers/all](https://github.com/diondresschers/all/blob/main/reference_sheets/flask/_flask.md) 
 * Status: Concept
 * Version: 2022-02-27V10_14
 
