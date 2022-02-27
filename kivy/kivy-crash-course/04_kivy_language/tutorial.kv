@@ -1,0 +1,13 @@
+<ScatterTextWidget>:
+    orientation: 'vertical' # Everything on the right of the double colon is actually pure python!
+    TextInput:
+        id: dit_is_een_referentie_id
+        font_size: 150
+        size_hint_y: None
+        height: 200
+        text: 'default'
+    FloatLayout:
+        Scatter:
+            Label:
+                text: dit_is_een_referentie_id.text
+                font_size: 150

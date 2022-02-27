@@ -1,0 +1,44 @@
+<ScatterTextWidget>:
+    orientation: 'vertical' # Everything on the right of the double colon is actually pure python!
+    # on_text_colour: do_things() # Dit is een zelfgemaakte ListProperty in de *.py file
+    canvas.before:
+        Color:
+            rgba: 0, 0, 0, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    TextInput:
+        id: dit_is_een_referentie_id
+        font_size: 150
+        size_hint_y: None
+        height: 200
+        text: 'default'
+        on_text: root.change_label_colour() # `root` is altijd de top lever widget. # on_ is voor alles # Dit is de zelfgemaakt en zelfgenaamde functie in de *.py file
+    FloatLayout:
+        Scatter:
+            Label:
+                id: mijn_labeltje
+                text: dit_is_een_referentie_id.text
+                font_size: 150
+                color: root.text_colour
+                canvas: 
+                    Color:
+                        rgba: 0, 1, 0, 0.5
+                    Rectangle:
+                        pos: self.pos
+                        size: self.size
+
+    BoxLayout:
+        orientation: 'horizontal' # this is actual the default
+        size_hint_y: None
+        height: 150
+        Label:
+            id: labeltje_1
+            text: dit_is_een_referentie_id.text[:3][::-1]
+            font_size: 100
+            color: root.text_colour
+        Label:
+            id: labeltje_2
+            text: dit_is_een_referentie_id.text[-3:][::-1]
+            font_size: 100
+            color: root.text_colour
