@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width={device-width}, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap-5.0.0-beta3-dist/css/bootstrap.css') }} ">
+</head>
+
+<body>
+    <p>Flash messages with category in Bootstrap.</p>
+
+    <p>
+        <a href="https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/">Flashing — Flask Documentation</a>
+    </p>
+
+            <h2>Flash messages without use of a category:</h2>
+            {% for message_bla in get_flashed_messages() %}
+            <p>
+                {{ message_bla }}
+            </p>
+            {% endfor %}
+
+            <h2>Flash messages with use of a category and Bootstrap CSS</h2>
+            {% with bla_messages = get_flashed_messages(with_categories=true) %}
+                {% if bla_messages %}
+                    {% for bla_category, bla_message in bla_messages %}
+                    <div class="alert alert-{{ bla_category}}" role="alert">
+                        {{ bla_message }}
+                    </div>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+
+
+
+
+
+
+
+            <script
+                src="{{ url_for('static', filename='bootstrap-5.0.0-beta3-dist/js/bootstrap.bundle.js') }}"></script>
+</body>
+
+</html>

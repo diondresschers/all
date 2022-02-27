@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <title>File Upload</title>
+  </head>
+  <body>
+    <h1><a href="https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask">Handling File Uploads With Flask - miguelgrinberg.com</a></h1>
+    <form method="POST" action="" enctype="multipart/form-data">
+        <p>Ignore the message 'No file chose' after uploading, as the page is reloaded and defaulted. Check if the file actually is uploaded</p>
+        <p>You can make sure the directory has been created that has been defined in the `app.config['UPLOAD_PATH']`, which in this case  is: 'static/uploads'`. Otherwise it will be created but raises initially an error.</p>
+      <p><input type="file" name="file"></p>
+      <p><input type="submit" value="Submit"></p>
+    </form>
+      <p><a href="{{ url_for('uploads_show_all') }}">See all uploaded images.</a></p>
+
+        <h1>If you use WTF-forms:</h1>
+        <pre>
+from flask_wtf import FlaskForm
+from flask_wtf.file import FileField
+from wtforms import SubmitField
+
+class MyForm(FlaskForm):
+    file = FileField('File')
+    submit = SubmitField('Submit')
+
+        </pre>
+  </body>
+</html>
+
