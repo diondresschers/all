@@ -12,7 +12,7 @@
 |------|---------------------|-----|-|
 |VU Canvas default course|[LMS](https://en.wikipedia.org/wiki/Learning_management_system) (within VU)|Gratis|Only VU accounts|
 |VU Canvas Community Course|[LMS](https://en.wikipedia.org/wiki/Learning_management_system) (within VU)|Gratis|Only VU accounts|
-|VU Canvas Community Course (setting: 'Visibility: Public')|[LMS](https://en.wikipedia.org/wiki/Learning_management_system) (within VU)|Gratis|Everybody can join, nobody can log in, so no student tracking. Open for 7 million people so be careful (also with copyright).|
+|VU Canvas Community Course (setting: 'Visibility: Public')|[LMS](https://en.wikipedia.org/wiki/Learning_management_system) (within VU)|Gratis|Everybody can join, nobody can log in, so no student tracking. Open for +/- 8 billion people so be careful what you post (also with copyright).|
 |'Canvas voor het niet-reguliere onderwijs'|[LMS](https://en.wikipedia.org/wiki/Learning_management_system) For students not with an VU-mail account.|45 EUR per student per year / 24 EUR < 4 months|https://edu.nl/6dbcu (maybe not all tools are avaible)|
 |MoodleCloud (hosted by Moodle)|[LMS](https://en.wikipedia.org/wiki/Learning_management_system)|[From 110 EUR Annual](https://moodle.com/solutions/moodlecloud/)|No support or additional tools|
 |Canvas hosted by 3rd party (like BeOpenICT)|[LMS](https://en.wikipedia.org/wiki/Learning_management_system)|[For instance check prices at BeOpenICT)](https://be-open-ict.nl/drupal/)|No support or additional tools|
