@@ -1,9 +1,10 @@
 # Comparisment LMSs, MOOCs within the VU and outside the VU
 
-* Title: [Comparisment LMSs, MOOCs within the VU and outside the VU](https://edu.nl/armb9)
+* Title: Comparisment LMSs, MOOCs within the VU and outside the VU](https://edu.nl/armb9
 * Scope: VU SBE CTL 
 * Author: Dion Dresschers (Vrije Universiteit Amsterdam)
-* License: [Creative Commons — Attribution-NonCommercial-ShareAlike 4.0 International — CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* License: [Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+* Link: https://edu.nl/armb9
 * Version: 2022-07-19 11:08:23
 * State: Concept
 
