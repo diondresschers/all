@@ -22,7 +22,7 @@ Kan Ban (看板) means in Japanese sign board, which should be alwasy visible fo
 
 # Kan Ban Rules
 
-1. Each workday from 08:40 until maximum 08:55 CTL members come togheter online and possible also physical for the Daily Standup.
+1. Each workday from 08:40 until maximum 08:55 CTL members come togheter online and possible also physical for the daily standing meeting for a Kan Ban Board.
 2. Joining and act as a Speker is only mandatory if you are a Learning Technologist and if this is your working day. It's optionally for Student Assistents as timewise it may not be handy for you to join each time. It's also not mandatory for a SA to act as a Speaker.
 4. If TL members can't join, than they should notify the Center for Teaching and Learning (CTL) Team beforehand via the Teams chat
 5. Each Kan Ban Standup (Standup) will be maximum 15 minutes.
