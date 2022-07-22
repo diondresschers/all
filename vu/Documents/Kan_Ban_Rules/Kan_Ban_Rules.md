@@ -4,7 +4,7 @@ Title: Kan Ban Rules
 Scope: VU SBE CTL
 Author: Dion Dresschers (Vrije Universiteit Amsterdam)
 License: Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0
-Link: 
+Link: https://edu.nl/6mf9r
 Version: 2022-07-22 09:13:23
 State: Concept
 
