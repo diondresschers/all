@@ -31,7 +31,7 @@ Onderwijs:
 
 Online leren is niet per defintie beter dan fysiek leren. Het gaat erom hoe het onderwijs ontworpen wordt.
 
-> **"Online leren betreft de situatie waarin lesgeven en het leerproces plaatsvinden in een virtuele setting, vaak op afstand. Dat is echter niet hetzelfde als afstandsleren. Online leren is een vorm van afstandsleren, maar onder afstandsleren valt ook de situatie waarin studneten boeken of een dvd ontvangen met informatie en opdrachten, die ze doorlopen en retourneren als ze klaar zijn. Online leren is daarnaast ook een vorm van e-learning, mmaar met deze onderwijsvorm zet ook ICT in zonder gebruik van internet."** (Bron: pagina 12)
+> *"Online leren betreft de situatie waarin lesgeven en het leerproces plaatsvinden in een virtuele setting, vaak op afstand. Dat is echter niet hetzelfde als afstandsleren. Online leren is een vorm van afstandsleren, maar onder afstandsleren valt ook de situatie waarin studneten boeken of een dvd ontvangen met informatie en opdrachten, die ze doorlopen en retourneren als ze klaar zijn. Online leren is daarnaast ook een vorm van e-learning, mmaar met deze onderwijsvorm zet ook ICT in zonder gebruik van internet."* (Bron: pagina 12)
 
 # 02. Onderwijsontwerp
 
