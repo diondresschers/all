@@ -1,6 +1,6 @@
-# Samenvatting: Blended learning en onderwijsontwerp
+# Blended Learning
 
-* Title: Samenvatting: Blended learning en onderwijsontwerp   
+* Title: Blended Learning   
 * Creation date: 2020-08-21 
 * Target audience: Nederlandstalige trainers, leraren en docenten
 * License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -10,6 +10,10 @@
 * Original file(s): 
 * Status: Concept
 * Version date: 2022-08-21T18:27
+
+# 00. Introductie
+
+Interessante concepten uit het boek 'Blended learning en onderwijsontwerp' van Barend Last en Stefan Jongen zijn hier genoteerd.
 
 Concepten: 
 
@@ -25,6 +29,9 @@ Onderwijs:
 
 # 01. Blended Learning
 
+Online leren is niet per defintie beter dan fysiek leren. Het gaat erom hoe het onderwijs ontworpen wordt.
+
+> **"Online leren betreft de situatie waarin lesgeven en het leerproces plaatsvinden in een virtuele setting, vaak op afstand. Dat is echter niet hetzelfde als afstandsleren. Online leren is een vorm van afstandsleren, maar onder afstandsleren valt ook de situatie waarin studneten boeken of een dvd ontvangen met informatie en opdrachten, die ze doorlopen en retourneren als ze klaar zijn. Online leren is daarnaast ook een vorm van e-learning, mmaar met deze onderwijsvorm zet ook ICT in zonder gebruik van internet."** (Bron: pagina 12)
 
 # 02. Onderwijsontwerp
 
