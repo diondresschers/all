@@ -18,13 +18,13 @@
 
 # Opleidingen
 
-2023- Master of Science in Information Technology bij UoPeople Online/VS (nog te starten begin 2023)
-2016-2018 Master Leren en Innoveren te Fontys Hogescholen in Eindhoven (MEd/Master Diploma behaald,)
-2003-2007 Leraar Natuurkunde 2de graads te Fontys Hogescholen in Tilburg (diploma behaald met genoegen)
-1995-1999 Leraar Natuurkunde 2de graags te Fontys Hogescholen in Sittard
-1994-1995 havo te Advies & Studiecentrum Heerlen (diploma behaald)
-1991-1994 Elektrotechniek te MTS Heerlen
-1987-1991 mavo te Sint Janscollege in Hoensbroek (diploma behaald)
+* 2023- Master of Science in Information Technology bij UoPeople Online/VS (nog te starten begin 2023)
+* 2016-2018 Master Leren en Innoveren te Fontys Hogescholen in Eindhoven (MEd/Master Diploma behaald,)
+* 2003-2007 Leraar Natuurkunde 2de graads te Fontys Hogescholen in Tilburg (diploma behaald met genoegen)
+* 1995-1999 Leraar Natuurkunde 2de graags te Fontys Hogescholen in Sittard
+* 1994-1995 havo te Advies & Studiecentrum Heerlen (diploma behaald)
+* 1991-1994 Elektrotechniek te MTS Heerlen
+* 1987-1991 mavo te Sint Janscollege in Hoensbroek (diploma behaald)
 
 # Werkervaring
 
