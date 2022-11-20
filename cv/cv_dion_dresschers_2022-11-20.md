@@ -28,63 +28,63 @@
 
 # Werkervaring
 
-2021-nu Learning Technologist bij de Vrije Universiteit Amsterdam
+## 2021-nu Learning Technologist bij de Vrije Universiteit Amsterdam
 * PhD's en (Associate) Professoren begeleiden met Active Blended Learning bij School of Business and Economics
 * Initiator van gesprekken met, externe en interne partners voor het invoeren van nieuwe technologieën en didactiek
 * Onderdeel van Task Force, Action Team, ImpactLab, SBE Center for Teaching and Learrning. & Facultaire Trekkers
-2020-nu Mede-eigenaar en mede-oprichter uOnline
+## 2020-nu Mede-eigenaar en mede-oprichter uOnline
 * Bedrijfsplan, kosten en baten analyse, procedures maken, administeren in zelfgehoste NextCloud-omgeving.
 * WordPress hosten op basis van LAMP (Linux, Apache, MySQL en PHP), inrichten van WordPress websites met Divi
 * Samenwerken met klanten voor een goede voor een lange en duurzame verbinding.
-2018-nu Medewerker Apotheek van Amsterdam UMC
+## 2018-nu Medewerker Apotheek van Amsterdam UMC
 * Ondersteuner van SharePoint, Proaz, Bartender, Teams, MS Office, XperiCentral, EPIC, Linux, PHP, en maatwerk
 * Begeleiden en helpen van collega’s met betrekking tot ICT problemen en vraagstukken
 * Beleidsbepaler samenvoegende afdelingen ICT Apotheek (locatie AMC)/Informatisering Apotheek (locatie VUmc)
-2016-2018 ICT’er in het Onderwijs (ICTO’er) en Docent bij de Hogeschool van Amsterdam
+## 2016-2018 ICT’er in het Onderwijs (ICTO’er) en Docent bij de Hogeschool van Amsterdam
 * Onderwijskundig en Blended Learning/ICT begeleider voor collega's bij Verpleegkunde en Voeding & Diëtetiek
 * Functioneel Beheerder DLWO (Microsoft Sharepoint) bij FBSV
 * Docent en Examinator voor HBO leerlingen van de opleiding Verpleegkunde
-2013-2016 Systeembeheerder (Linux & Storage) bij de Hogeschool van Amsterdam
+## 2013-2016 Systeembeheerder (Linux & Storage) bij de Hogeschool van Amsterdam
 * Monitoring, onderhoud, documenteren en uitvoeren van projecten op basis van RHEL 5 & 6, Satellite, Git & Ansible
 * Monitoring, onderhoud, documenteren en uitvoeren van projecten op basis van NetApp cDOT & 7-mode
 * Lid van deelmedezeggenschapsraad
-2012-2013 PHP Ontwikkelaar/Analist bij OpenSesame ICT in Nieuwegein
+## 2012-2013 PHP Ontwikkelaar/Analist bij OpenSesame ICT in Nieuwegein
 * Web Developer van een Enterprise Management Systems (gebaseerd op inhouse OpenIMS) voor intranet en websites.
 * Verantwoordelijke voor Service Desk, Webmaster, Trainer en Analist voor OpenIMS, SugarCRM, PHP & CSS.
 * Installeren EMS gebaseerd op Windows Server 2008, Apache, MySQL, PHP, PDF conversie, OCR, MS Office.
-2011 Leraar ICT MBO en ICT- Medewerker bij Landstede in Zwolle (extern)
+## 2011 Leraar ICT MBO en ICT-medewerker bij Landstede in Zwolle (extern)
 * ICT Leraar: Leraar voor Windows 2008 Server & Cisco voor het MBO
 * Externe toezichthouder voor examhttps://github.com/diondens voor het MBO ICT.
 * Projectlid: migratie van Extreme naar Cisco networks voor verschillende school locaties
-2010-2011 Eigenaar van dresschers.net in Amsterdam
+## 2010-2011 Eigenaar van dresschers.net in Amsterdam
 * Web Developer/Designer voor een online magazine met lidmaatschap, login, betaling, forum en meer in Joomla.
 * Web Developer voor verschillende organisaties gebaseerd op Drupal. Maker van een prijzenwinnende mobiele App.
 * Een bedrijf creëren met portfolio, marketing en tevreden klanten.
-2007-2010 Cisco Trainer - Global Knowledge in Nieuwegein
+## 2007-2010 Cisco Trainer - Global Knowledge in Nieuwegein
 * Cursisten bekend maken met Cisco apparatuur, netwerktools, -technieken en -protocollen (CCSI-gecertificeerd)
 * Het leerproces van cursisten op een zo effectief mogelijke manier op gang brengen en bewaken
 * Zelfstandig met behulp van internet en/of externe bronnen en via collega’s Cisco- en netwerkkennis eigen maken
-2006-2007 Leraar natuurkunde (Leraar in Opleiding) - Hub van Doorne school in Deurne
+## 2006-2007 Leraar natuurkunde (Leraar in Opleiding) - Hub van Doorne school in Deurne
 * Zelfstandig natuurkundeles geven aan leerlingen met verschillende persoonlijkheden en ze motiveren en stimuleren
 * Het ontwikkelen van natuurkundedemonstraties en -experimenten die leerlingen zelfstandig kunnen uitvoeren.
 * Een veilige en prettige werksfeer creëren waarin leerlingen zich fijn bij voelen.
-Zomer 2006 IT- Helpdeskmedewerker - Carglass in Eindhoven
+## Zomer 2006 IT- Helpdeskmedewerker - Carglass in Eindhoven
 * Support geven aan medewerkers over interne voorraad-, plannings- en factureringssoftware, StarOffice en hardware
 * Registratie en oplossen van incidenten in TopDesk
 * Zelfstanding installeren, implementeren en trainen van thinclients bij vestigingen in heel Nederland
-2005-2006 Verkoper - KPN in Eindhoven
+## 2005-2006 Verkoper - KPN in Eindhoven
 * Verkopen volgens targets, zowel persoonlijke als winkeltargets (incentive winnaar ‘Hoogste Primafoon stijger 2005’)
 * Terugkomende klanten efficiënt helpen of doorverwijzen en waar mogelijk omzetten in kopende klanten
 * Klanten op een zo natuurlijk mogelijke manier vragen naar hun telecomgebruik en hier op inspelen
-2000-2005 Customer Support Engineer Lotus Notes - Atos Origin in Eindhoven
+## 2000-2005 Customer Support Engineer Lotus Notes - Atos Origin in Eindhoven
 * Beheer op tweede- en derdelijnsniveau van diverse Lotus Domino Netwerken en Applicaties
 * Verantwoordelijke voor mondeling en schriftelijk communiceren naar gebruikers en helpdesks (tweede en derde lijn)
 * Maken en onderhouden van werkinstructies en het beheren van de bijbehorende database
-1999-2000 Verkoper - KPN in Heerlen
+## 1999-2000 Verkoper - KPN in Heerlen
 * Adviseren van klanten en het afhandelen van de verkoop van diverse telecomproducten
 * Invoer en wijziging van contracten en klantenorders in verschillende computerapplicaties
 * Het opbouwen van een goede klantenrelatie zodat de klant een vaste klant wordt
-1998-2000 Eigenaar RanziSoft - RanziSoft in Heerlen
+## 1998-2000 Eigenaar RanziSoft - RanziSoft in Heerlen
 * Het maken van consistente websites in HTML3.2 & JavaScript 1.2 in verschillende websites en platformen
 * Het starten van een bedrijf met bijbehorend bedrijfsplan, financiele administratie, branding, pricing & marketing
 * Het maken van illustraties in CorelDRAW8 & PhotoPaint8 en het maken van een administratie in WordPerfect Suite 8
