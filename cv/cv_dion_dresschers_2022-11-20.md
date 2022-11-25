@@ -18,7 +18,7 @@
 
 # Opleidingen
 
-* 2023- Master of Science in Information Technology bij UoPeople Online/VS (nog te starten begin 2023)
+* 2023- Master of Science in Information Technology bij UoPeople Online/VS (start in februari 2023)
 * 2016-2018 Master Leren en Innoveren te Fontys Hogescholen in Eindhoven (MEd/Master Diploma behaald,)
 * 2003-2007 Leraar Natuurkunde 2de graads te Fontys Hogescholen in Tilburg (diploma behaald met genoegen)
 * 1995-1999 Leraar Natuurkunde 2de graags te Fontys Hogescholen in Sittard
@@ -118,7 +118,7 @@
 * CLP Lotus Domino R5 en R6 System Administration (CLP)
 
 # ICT kennis
-* Web ontwikkeling: HTML5, CSS3, PHP5, Python, MySQL5 & JavaScript
+* Web ontwikkeling: HTML5, CSS3, PHP5, Python3, MySQL5 & JavaScript
 * CMS/LMS/Wiki/Tools: Joomla!, WordPress, Drupal, Canvas, Moodle, MediaWiki, Jupyter Hub/Notebook & Flask.
 * Grafisch ontwerp: Adobe Photoshop & Illustrator CS5, Camtasia, OBS Studio, OpenShot, InkScape & GIMP
 * Servers: Red Hat Enterprise Linux 5 t/m 7, Ubuntu Server 8.04 t/m 22.04, Microsoft Server 2008 R2 & 2012
