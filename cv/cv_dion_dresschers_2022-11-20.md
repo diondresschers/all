@@ -35,7 +35,7 @@
 ## 2020-nu Mede-eigenaar en mede-oprichter uOnline
 * Bedrijfsplan, kosten en baten analyse, procedures maken, administeren in zelfgehoste NextCloud-omgeving.
 * WordPress hosten op basis van LAMP (Linux, Apache, MySQL en PHP), inrichten van WordPress websites met Divi
-* Samenwerken met klanten voor een goede voor een lange en duurzame verbinding.
+* Samenwerken met klanten voor een goede voor een prettige, lange en duurzame samenwerking.
 ## 2018-nu Medewerker Apotheek van Amsterdam UMC
 * Ondersteuner van SharePoint, Proaz, Bartender, Teams, MS Office, XperiCentral, EPIC, Linux, PHP, en maatwerk
 * Begeleiden en helpen van collega’s met betrekking tot ICT problemen en vraagstukken
