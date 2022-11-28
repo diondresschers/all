@@ -19,6 +19,7 @@
 # Opleidingen
 
 * 2023- Master of Science in Information Technology bij UoPeople Online/VS (start in februari 2023)
+* 2017-2021 Associate Degree in Business Administration bij UoPeople Online/VS (geen diploma vanwege omscholing)
 * 2016-2018 Master Leren en Innoveren te Fontys Hogescholen in Eindhoven (MEd/Master Diploma behaald,)
 * 2003-2007 Leraar Natuurkunde 2de graads te Fontys Hogescholen in Tilburg (diploma behaald met genoegen)
 * 1995-1999 Leraar Natuurkunde 2de graags te Fontys Hogescholen in Sittard
