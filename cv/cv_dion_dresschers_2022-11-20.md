@@ -170,4 +170,4 @@
 Limburgs, Nederlands (zakelijk), Engels (zakelijk) en Duits (basis)
 
 # Hobbies
-Vintage computing, open source, films, sport, voeding, reizen
+Vintage computing, open source software/hardware, films, sport, voeding, reizen
