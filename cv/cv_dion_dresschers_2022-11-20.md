@@ -133,6 +133,7 @@
 # Cursussen
 * 2022 Constructive Allignment - TU Delft (nog af te ronden)
 * 2022 Agile werken, Het 80/20 principe, Go Team, & Persoonlijk leiderschap bij Goodhabbitz (nog af te ronden)
+* 2022 Summerschool: Data Analysis in R (Vrije Universiteit Amsterdam)
 * 2019 Nonviolent Communication bij Connecting2Life
 * 2018 Beter schrijven in het hoger onderwijs (MOOC) bij UvA/HvA
 * 2017 MOODLE Basiscursus bij OpenEdu
