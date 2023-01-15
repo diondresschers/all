@@ -1,8 +1,7 @@
 # Boardgames
 
-|NL Name|Owned|Size|Link BGG|US Name|Link Manual|Placeholder|Recommended|
-|-------|-----|----|--------|-------|-----------|-----------|-----------|
-|-|-|-|-|-|-|-|
+|NL Name|Owned|Rate Jadzia|Rate Dion|Type|Size|Type|Link BGG|US Name|Link Manual|Placeholder|Recommended|
+|-|-|-|-|-|-|-|-|-|-|-|-|
 |Horrified|-|Big|-|-|-|-|Coop|
 |Targi|-|Middle|-|-|-|-|2 pers.|
 |Duel|-|Middle|-|-|-|-|2 pers.|
