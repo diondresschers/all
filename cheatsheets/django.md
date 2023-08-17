@@ -1,5 +1,6 @@
 # Django 3.2
 
+* Version 2023-08-17_06:00
 # Documentation
 
 * [Official Django 3.2 documentation](https://docs.djangoproject.com/en/3.2/)
