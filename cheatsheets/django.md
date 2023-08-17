@@ -2,7 +2,7 @@
 
 # Documentation
 
-* [Django documentation | Django documentation | Django](https://docs.djangoproject.com/en/3.2/)
+* [Official 3.2 Django documentation)
 
 # Forum
 
