@@ -11,7 +11,7 @@
 # Cheat Sheet
 
 * [Beginner's Python Cheat Sheet.pdf](https://www.slideshare.net/AkhileshKumar436707/beginners-python-cheat-sheetpdf)
-* [Editing all/cheatsheets/django.md at main · diondresschers/all](https://github.com/diondresschers/all/edit/main/cheatsheets/django.md)
+* [Django 2.3 - Dion Dresschers](https://github.com/diondresschers/all/edit/main/cheatsheets/django.md)
 
 # Learning Path
 
