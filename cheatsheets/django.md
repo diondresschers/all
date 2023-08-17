@@ -10,5 +10,9 @@
 
 # Cheat Sheet
 
-* [Beginner's python cheat sheet on- Django - Python Crash Course A Hands-On, Project-Based - Studocu](https://www.studocu.com/sg/document/singapore-university-of-social-sciences/python-programming/beginners-python-cheat-sheet-on-django/23601300)
+* [Beginner's Python Cheat Sheet.pdf](https://www.slideshare.net/AkhileshKumar436707/beginners-python-cheat-sheetpdf)
 * [Editing all/cheatsheets/django.md at main · diondresschers/all](https://github.com/diondresschers/all/edit/main/cheatsheets/django.md)
+
+# Learning Path
+
+* [Become a Django Developer](https://www.linkedin.com/learning/paths/become-a-django-developer)
